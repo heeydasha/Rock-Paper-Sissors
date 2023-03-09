@@ -1,1 +1,1 @@
-# Rock-Paper-Sissors from Ania Kubow's youtube tutorial 
+# Rock-Paper-Sissors
